@@ -19,9 +19,7 @@ public class SetCapability {
 
         dc.setCapability(MobileCapabilityType.DEVICE_NAME, "WUJ01RXT46");
 
-        //URL url = new URL("http://127.0.0.1:4723/wd/hub");
 
-        //AndroidDriver<WebElement> driver = new AndroidDriver<WebElement>(url, dc);
 
     }
 }
